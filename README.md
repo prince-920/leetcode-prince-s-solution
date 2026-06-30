@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
+| [2595-number-of-even-and-odd-bits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2595-number-of-even-and-odd-bits) |
 ## Recursion
 |  |
 | ------- |
