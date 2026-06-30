@@ -1,15 +1,26 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int count = 0 ;
         int n = nums.size();
-        for ( int i =0  ; i<n ; i++){
-  if ( (nums[i]>9 &&nums[i]<100) ||  (nums[i]>999 &&nums[i]<10000) || nums[i]== 100000){
-    count++;
-  }
+        vector<int>ans;
 
+        for( int i = 0 ; i<n ; i++){
+                    int count = 0 ;
 
+            while ( nums[i]!=0){
+               nums[i] =nums[i]/10;
+                count ++;
+            }
+            ans.push_back(count);
         }
-return count;
+int evencount = 0;
+        for ( int i = 0 ; i< n ;i++){
+            if ( ans[i]%2 ==0 ){
+                evencount++;
+            }
+        }
+        return evencount;
+
+
     }
 };
