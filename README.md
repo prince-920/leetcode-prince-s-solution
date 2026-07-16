@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Enumeration
 |  |
 | ------- |
