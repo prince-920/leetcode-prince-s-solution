@@ -89,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
