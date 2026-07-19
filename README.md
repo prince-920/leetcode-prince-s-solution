@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -111,9 +112,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
