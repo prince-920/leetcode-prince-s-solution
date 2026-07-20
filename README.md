@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3174-clear-digits) |
 ## Design
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3794-reverse-string-prefix) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
