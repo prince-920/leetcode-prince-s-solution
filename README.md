@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
