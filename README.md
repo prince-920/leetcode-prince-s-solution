@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2595-number-of-even-and-odd-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Array
