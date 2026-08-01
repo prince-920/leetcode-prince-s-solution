@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2595-number-of-even-and-odd-bits) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0213-house-robber-ii) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
