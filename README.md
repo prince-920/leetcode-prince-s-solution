@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
@@ -175,12 +177,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
