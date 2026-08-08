@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
@@ -185,9 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
