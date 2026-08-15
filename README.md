@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
