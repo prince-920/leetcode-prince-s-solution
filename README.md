@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0377-combination-sum-iv) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
