@@ -5,7 +5,7 @@ public:
 
         for ( int i = 0 ; i<nums.size();i++){
         if ( nums[i] !=val){
-        nums[count]=nums[i];
+        nums[count]=nums[i]; //array ko bhi modify karna h ,ie pahle elements bharne h jo nums[i]!=val h ,  count return karo
 
             count++;  
         }
