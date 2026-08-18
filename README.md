@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
 ## Enumeration
 |  |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
