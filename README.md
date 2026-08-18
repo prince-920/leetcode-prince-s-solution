@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3945-digit-frequency-score](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3945-digit-frequency-score](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
