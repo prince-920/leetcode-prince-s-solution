@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2404-most-frequent-even-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
