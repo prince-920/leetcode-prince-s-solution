@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3663-find-the-least-frequent-digit) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3663-find-the-least-frequent-digit) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
