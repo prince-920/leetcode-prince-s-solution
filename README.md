@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [2032-two-out-of-three](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2032-two-out-of-three) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2595-number-of-even-and-odd-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2404-most-frequent-even-element) |
