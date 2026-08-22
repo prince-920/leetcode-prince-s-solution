@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2248-intersection-of-multiple-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2248-intersection-of-multiple-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2248-intersection-of-multiple-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2248-intersection-of-multiple-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2248-intersection-of-multiple-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2404-most-frequent-even-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3663-find-the-least-frequent-digit) |
