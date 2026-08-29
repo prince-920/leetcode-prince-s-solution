@@ -340,18 +340,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
