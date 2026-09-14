@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
