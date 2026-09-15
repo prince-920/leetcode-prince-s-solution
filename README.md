@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
