@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0377-combination-sum-iv) |
+| [0414-third-maximum-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
