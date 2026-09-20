@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0414-third-maximum-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 ## Linked List
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
 ## Binary Tree
