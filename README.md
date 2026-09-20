@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2390-removing-stars-from-a-string) |
