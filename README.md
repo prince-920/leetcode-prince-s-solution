@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
