@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
