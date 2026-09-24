@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
+| [0697-degree-of-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0697-degree-of-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0697-degree-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1394-find-lucky-integer-in-an-array) |
