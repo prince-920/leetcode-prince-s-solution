@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -411,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
