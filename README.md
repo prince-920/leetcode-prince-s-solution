@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0994-rotting-oranges) |
 | [1089-duplicate-zeros](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1089-duplicate-zeros) |
+| [1162-as-far-from-land-as-possible](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
+| [1162-as-far-from-land-as-possible](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1162-as-far-from-land-as-possible) |
 ## Stack
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1162-as-far-from-land-as-possible) |
 ## Union-Find
 |  |
 | ------- |
