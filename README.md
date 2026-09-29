@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2000-reverse-prefix-of-word) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
