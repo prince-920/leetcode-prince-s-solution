@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0901-online-stock-span) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0242-valid-anagram) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bubble Sort
 |  |
