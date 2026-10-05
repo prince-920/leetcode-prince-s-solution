@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3866-first-unique-even-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3945-digit-frequency-score) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Memoization
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3663-find-the-least-frequent-digit) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3866-first-unique-even-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -358,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0506-relative-ranks) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -453,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1051-height-checker) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
