@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2390-removing-stars-from-a-string) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting Sort
 |  |
