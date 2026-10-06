@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3945-digit-frequency-score) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3866-first-unique-even-element) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
