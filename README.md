@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
