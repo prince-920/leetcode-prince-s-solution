@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
