@@ -6,11 +6,11 @@ public:
 bool flag= false;
         while(a<=b){
             long long sum = a * a + b * b;
-            if ( sum== c) {return true; }
+            if ( sum== c) {flag= true; break;}
             else if (sum<c) a++;
             else b--;
         }
-        return false;
+        return flag;
         
     }
 };
