@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3663-find-the-least-frequent-digit) |
@@ -488,4 +490,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
