@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0229-majority-element-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Dynamic Programming
 |  |
@@ -503,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
