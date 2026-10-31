@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3663-find-the-least-frequent-digit) |
+| [3665-twisted-mirror-path-count](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3665-twisted-mirror-path-count) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1162-as-far-from-land-as-possible](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1162-as-far-from-land-as-possible) |
+| [3665-twisted-mirror-path-count](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1162-as-far-from-land-as-possible) |
+| [3665-twisted-mirror-path-count](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3665-twisted-mirror-path-count) |
 ## Union-Find
 |  |
 | ------- |
