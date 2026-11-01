@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/1512-number-of-good-pairs) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
