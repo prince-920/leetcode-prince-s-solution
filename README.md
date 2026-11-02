@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0633-sum-of-square-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0494-target-sum) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/prince-920/leetcode-prince-s-solution/tree/master/0905-sort-array-by-parity) |
